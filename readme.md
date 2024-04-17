@@ -23,6 +23,7 @@ This is a C++ implementation of a game where pieces of different shapes and colo
 
   1- Compile the files using a C++ compiler.
     cpp -o executable.exe *.cpp
+    
   2- Run the executable to start the game.
 
 **Game Controls**
