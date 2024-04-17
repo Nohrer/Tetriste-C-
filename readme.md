@@ -11,7 +11,7 @@ This is a C++ implementation of a game where pieces of different shapes and colo
 - Piece Rotation
 - Piece Generation and Removal
 
-  **Features**
+**Features**
 
 - Circular linked list data structure to store the game pieces
 - Ability to add, insert, and delete pieces
@@ -22,7 +22,7 @@ This is a C++ implementation of a game where pieces of different shapes and colo
   1- Compile the main.cpp file using a C++ compiler.
   2- Run the executable to start the game.
 
-  **Game Controls**
+**Game Controls**
 
 - Q: Place the next piece on the left side of the list
 - D: Place the next piece on the right side of the list
