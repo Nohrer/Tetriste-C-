@@ -18,7 +18,9 @@ This is a C++ implementation of a game where pieces of different shapes and colo
 - Automatic removal of groups of three or more pieces with the same shape or color
 - Score tracking
 - Piece generation and rotation
-  **Getting Started**
+  
+**Getting Started**
+
   1- Compile the main.cpp file using a C++ compiler.
   2- Run the executable to start the game.
 
